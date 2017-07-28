@@ -1,4 +1,4 @@
-<keymap version="1" name="ReSharper OSX copy 0" parent="ReSharper OSX">
+<keymap version="1" name="ReSharper OSX copy 0">
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta f4" />
     <keyboard-shortcut first-keystroke="meta w" />
